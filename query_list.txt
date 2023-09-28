@@ -1,0 +1,20 @@
+Q01	Forts in Uttar Pradesh,India
+Q02	Who was Sanjaya and what is the story of Kshatriyas?
+Q03	Who were the Nagas?
+Q04	What is a rational number?
+Q05	Influenza statistics by Flu
+Q06	Where is agro based economy?
+Q07	Famous pieces of literature or fiction
+Q08	Machine Learning
+Q09	What is Cloud Computing?
+Q10	Movie directors
+Q11	Number theory
+Q12	Who was Kunti?
+Q13	What is Hierarchical CLustering? Its different use in machine learning
+Q14	Who is Adolf Hitler and what is Nazi?
+Q15	Sherlock Holmes
+Q16	Fake treatment for Covid19
+Q17	Euclidean Geometry in Mathematics
+Q18	What are neurological disorders?
+Q19	Variables in Computer Science
+Q20	Who was Arjuna?
